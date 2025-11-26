@@ -6,7 +6,8 @@
 ![quirinux-usuarios-2025](https://github.com/user-attachments/assets/ee66a707-0d9f-437a-bf58-9fd6041459c8)
 
 ---
-![Contributors](https://img.shields.io/github/contributors/quirinux-so/quirinux-usuarios) ![Stars](https://img.shields.io/github/stars/quirinux-so/quirinux-usuarios) ![Forks](https://img.shields.io/github/forks/quirinux-so/quirinux-usuarios) ![Issues](https://img.shields.io/github/issues/quirinux-so/quirinux-usuarios) ![Last Commit](https://img.shields.io/github/last-commit/quirinux-so/quirinux-usuarios) ![Activity](https://img.shields.io/github/commit-activity/m/quirinux-so/quirinux-usuarios) ![Repo Size](https://img.shields.io/github/repo-size/quirinux-so/quirinux-usuarios) ![Lenguaje](https://img.shields.io/badge/Lenguaje-Gambas-blue)
+![Contributors](https://img.shields.io/github/contributors/quirinux-so/quirinux-usuarios) ![Stars](https://img.shields.io/github/stars/quirinux-so/quirinux-usuarios) ![Forks](https://img.shields.io/github/forks/quirinux-so/quirinux-usuarios) ![Issues](https://img.shields.io/github/issues/quirinux-so/quirinux-usuarios) ![Commits](https://img.shields.io/github/commit-activity/t/quirinux-so/quirinux-usuarios)
+ ![Last Commit](https://img.shields.io/github/last-commit/quirinux-so/quirinux-usuarios) ![Activity](https://img.shields.io/github/commit-activity/m/quirinux-so/quirinux-usuarios) ![Repo Size](https://img.shields.io/github/repo-size/quirinux-so/quirinux-usuarios) ![Lenguaje](https://img.shields.io/badge/Lenguaje-Gambas-blue)
 
 
 
